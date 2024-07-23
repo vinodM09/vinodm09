@@ -1,12 +1,3 @@
-- 👋 Hi, I’m @vinodm09
-- 👀 I’m interested in Full Stack Web development.
-- 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on projects to share the things I know and gain experience by the things you know.
+I am a passionate web developer with a keen interest in learning new programming languages and technologies. Currently, I am expanding my skill set by diving into C++ and mastering Data Structures and Algorithms (DSA). Beyond web development, I have a strong fascination with space exploration and drone technology. I am always eager to explore how these fields can intersect and innovate. Whether I am coding a new website, developing software, or experimenting with drones, I am driven by curiosity and a love for technology.
 - 📫 How to reach me https://www.linkedin.com/in/vinodmali09
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Space Enthusiast, Drone development, Direction.
-
-<!---
-vinodm09/vinodm09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- ⚡ Fun fact: I aspire to become a documentary director someday.
