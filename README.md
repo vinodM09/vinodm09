@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full Stack Web development.
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on projects to share the things I know and gain experience by the things you know.
-- 📫 How to reach me snvinod09@gmail.com
+- 📫 How to reach me https://www.linkedin.com/in/vinodmali09
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Space Enthusiast, Drone development, Direction.
 
