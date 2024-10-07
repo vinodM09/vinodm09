@@ -4,10 +4,9 @@
 <br>
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vinodm09&label=Profile%20views&color=0e75b6&style=flat" alt="vinodm09" /> </p>
-
 - 🌱 I’m currently learning **DSA with C++**
-
+- [ ◉¯ ] Video Editor @DaVinci Resolve
+- GirlScript Summer of Code 2024 Extended
 - 💬 Ask me about **DSA, HTML, CSS, JavaScript**
 
 <h3 align="left">Connect with me:</h3>
